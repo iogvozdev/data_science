@@ -15,6 +15,6 @@ while True:
         print("Число должно быть больше!")
         
     else:
-        print(f"Вы угадали число! Это число = {number}, за {count} попыток")
-        break    
+        print(f"Вы число! Это число = {number}, за {count} попыток")
+        break  
     
