@@ -44,7 +44,7 @@ def score_game(predict_function) -> int:
     
     count_ls = []
     
-    #Звгвдывается список рандомных чисел
+    #Загадывается список рандомных чисел
     random_array = np.random.randint(1, 101, size=1000)
     
     for number in random_array:
